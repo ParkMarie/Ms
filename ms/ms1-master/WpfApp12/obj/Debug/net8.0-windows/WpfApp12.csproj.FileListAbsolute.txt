@@ -1,0 +1,7 @@
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\LogWindow.g.cs
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\UserWindow.g.cs
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.cache
+C:\Users\park_\Downloads\ms\ms1-master\WpfApp12\obj\Debug\net8.0-windows\WpfApp12_MarkupCompile.lref
